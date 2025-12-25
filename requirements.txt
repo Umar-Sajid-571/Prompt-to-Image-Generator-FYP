@@ -1,0 +1,15 @@
+# Web Framework
+streamlit
+
+# Deep Learning Frameworks
+torch
+torchvision
+
+# HuggingFace & Model Libraries
+diffusers
+transformers
+accelerate
+
+# Image Processing
+Pillow
+numpy
