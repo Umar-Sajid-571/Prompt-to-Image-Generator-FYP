@@ -1,15 +1,8 @@
-# Web Framework
-streamlit
-
-# Deep Learning Frameworks
-torch
-torchvision
-
-# HuggingFace & Model Libraries
-diffusers
-transformers
-accelerate
-
-# Image Processing
+streamlit==1.32.0
+torch==2.2.0
+torchvision==0.17.0
+diffusers==0.26.3
+transformers==4.38.1
+accelerate==0.27.2
 Pillow
-numpy
+numpy<2.0.0
